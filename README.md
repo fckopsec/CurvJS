@@ -46,7 +46,7 @@
 
 ### Built With
 
-* [![Typescript][Typescript]][Typescript-url]
+* [![Typescript][Typescript]][[Typescript-url](https://www.typescriptlang.org/)]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
