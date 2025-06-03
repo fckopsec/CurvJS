@@ -47,7 +47,7 @@
 ### Built With
 
 * [![Typescript][Typescript]][[Typescript-url](https://www.typescriptlang.org/)]
-* [![React][React.js]][React-url]
+* [![React][typescriptlang.org]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
