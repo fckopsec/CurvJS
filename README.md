@@ -47,9 +47,6 @@
 [![Next.js](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://typescriptlang.org)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
