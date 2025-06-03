@@ -39,13 +39,8 @@
 ## About The Project
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ### Built With
 [![Next.js](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://typescriptlang.org)
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
