@@ -43,9 +43,8 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ### Built With
-[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
+[![Next.js](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://typescriptlang.org)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
