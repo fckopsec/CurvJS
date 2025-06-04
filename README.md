@@ -38,6 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+#### CurvJS is a simple, one-file library that makes creating charts very easy and efficient.
 
 ### Built With
 [![Next.js](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://typescriptlang.org)
